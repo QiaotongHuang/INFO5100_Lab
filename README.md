@@ -1,2 +1,2 @@
-# INFO5100_Module_1
-Lab 1 for INFO5100
+# INFO5100_Lab
+Lab for INFO5100
